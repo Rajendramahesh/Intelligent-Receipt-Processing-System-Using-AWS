@@ -1,7 +1,3 @@
-Absolutely! Here’s a polished and professional `README.md` tailored to your Intelligent Receipt Processing System using AWS:
-
----
-
 # Intelligent Receipt Processing System Using AWS
 
 ## 📌 Overview  
@@ -77,9 +73,11 @@ In today’s digitally driven world, organizing paper receipts is still a challe
 ## 📧 Sample Output Email
 
 - Sample Receipt image
+  
 ![image](https://github.com/user-attachments/assets/7a50dd2f-0102-4fba-a0ac-3d566361c0be)
 
 - Output in mail.
+  
 ![image](https://github.com/user-attachments/assets/728a9ae4-c134-48d2-b47a-d9672d9ef682)
 
 
