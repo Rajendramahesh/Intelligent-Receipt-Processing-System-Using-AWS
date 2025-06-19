@@ -12,6 +12,10 @@ In today’s digitally driven world, organizing paper receipts is still a challe
 - Fully serverless and event-driven architecture
 
 ## 🛠️ Architecture Components
+![WhatsApp Image 2025-05-07 at 04 11 52_78748dbf](https://github.com/user-attachments/assets/efdecd06-353c-4def-bdfe-96b390dc4040)
+
+
+
 ### 1. **Frontend (User Interface)**
 - Built with **Flask**, running on an **EC2 instance**
 - Users upload receipt images or PDFs
